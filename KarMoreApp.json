@@ -18,6 +18,16 @@
     		"nama_apps" :"Ghost Sounds",
     		"img_url" : "https://iili.io/j0h3Rj.jpg",
     		"apps_url" : "https://play.google.com/store/apps/developer?id=KrisJayDev"
+    	},
+	{
+    		"nama_apps" :"Cricket Sounds",
+    		"img_url" : "https://iili.io/w0Wxff.jpg",
+    		"apps_url" : "https://play.google.com/store/apps/developer?id=KrisJayDev"
+    	},
+	{
+    		"nama_apps" :"Mosquito Sounds",
+    		"img_url" : "https://iili.io/w0WIUl.jpg",
+    		"apps_url" : "https://play.google.com/store/apps/developer?id=KrisJayDev"
     	}
 	
 	]
